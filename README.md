@@ -2,6 +2,7 @@
 
 <img width="1191" height="670" alt="Untitled-1" src="https://github.com/user-attachments/assets/f49f53c2-ed1b-4820-b6a9-8fb6ab79fa25" />
 
+
 # A bit about me 🤔
 <li> 📹 I'm a YouTuber who runs a channel with nearly 2.100 subscribers 
 <li> 📚 I'm a university student learning Business Administration
