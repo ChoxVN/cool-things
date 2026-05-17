@@ -3,14 +3,14 @@
 <img width="1191" height="670" alt="Untitled-1" src="https://github.com/user-attachments/assets/f49f53c2-ed1b-4820-b6a9-8fb6ab79fa25" />
 
 
-# A bit about me 🤔
+# 🤔 A bit about me 
 <li> 📹 I'm a YouTuber who runs a channel with nearly 2.100 subscribers 
 <li> 📚 I'm a university student learning Business Administration
 <li> 🖌️ I have learned Photoshop, Autodesk Maya and video editing tools for 4 years 
 <li> 💻 A newbie in coding, I do interested in it but don't know how to do coding 
 <li> 😄 I'm a chill person, so if you like talking to me, feel free to talk
 
-# Fun fact 🙂
+# 🙂 Fun fact 
 <li> I start making YouTube video since 2016, when I was a kid
 <li> I've been collecting memorabilia for a year, never regret it
 <li> I've been on several English competitions back in school
